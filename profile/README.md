@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="./logo.svg" alt="Ridebase Logo" width="200" />
-  <h1>RIDE⚡BASE</h1>
+  <img src="./logo.svg" alt="Ridebase Logo" width="220" />
   <p><strong>Motosiklet Ekosistemi İçin Yapay Zeka Destekli, Siber-Fiziksel Teknoloji Üssü</strong></p>
   
   [![Website](https://img.shields.io/badge/Website-theridebase.com-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theridebase.com)
