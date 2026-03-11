@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.svg" alt="Ridebase Logo" width="120" />
+  <img src="./logo.svg" alt="Ridebase Logo" width="200" />
   <h1>RIDE⚡BASE</h1>
   <p><strong>Motosiklet Ekosistemi İçin Yapay Zeka Destekli, Siber-Fiziksel Teknoloji Üssü</strong></p>
   
